@@ -19,7 +19,7 @@ import streamlit as st
 # de onde o streamlit for executado.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from Miniprojeto_LucasMendes_AnáliseDeDadosComPythonT2 import obter_dados
+from Miniprojeto_LucasMendes_AnaliseDeDadosComPythonT2 import obter_dados
 
 # ── Configuração da página ────────────────────────────────────────────────────
 st.set_page_config(
